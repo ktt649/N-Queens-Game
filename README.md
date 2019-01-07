@@ -28,10 +28,10 @@ Execution instructions:
   3. Execute the desired file.
      Sample execution: python3 GameAnalysis.py 
      with settings:
-        version = 'A'
-        N = 20
-        PRUNE = False
-        CUTOFF = 4
+        * version = 'A'
+        * N = 20
+        * PRUNE = False
+        * CUTOFF = 4
      
      will produce the below chart 
      
@@ -73,13 +73,13 @@ Execution instructions:
   3. Execute the desired file.
      Sample execution: python3 InteractiveGameAnalysis.py 
      with settings:
-       Version = "A"
-       p1_cutoff = 3
-       p2_cutoff = 5
-       N = 20
-       best_of = 5
-       p1_prune = True
-       p2_prune = True
+      * Version = "A"
+      * p1_cutoff = 3
+      * p2_cutoff = 5
+      * N = 20
+      * best_of = 5
+      * p1_prune = True
+      * p2_prune = True
      
      will produce the below chart 
 
